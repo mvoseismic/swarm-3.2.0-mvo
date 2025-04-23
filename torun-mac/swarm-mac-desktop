@@ -1,0 +1,10 @@
+#!/bin/bash
+#
+# run swarm from desktop icon
+#
+# R.C. Stewart, 20 Aug 2019
+
+# EDIT THE PATH HERE
+cd /Users/stewart/trav/src/swarm/swarm-3.2.0-mvo
+
+./swarm.sh
