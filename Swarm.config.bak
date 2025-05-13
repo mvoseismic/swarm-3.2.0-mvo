@@ -16,9 +16,9 @@ clipboardSizeY=1391
 
 clipboardVisible=false
 
-clipboardX=811
+clipboardX=84
 
-clipboardY=129
+clipboardY=54
 
 durationA=1.86
 
@@ -73,6 +73,7 @@ pVelocity=6.0
 saveConfig=true
 
 server=MBGH;sls:172.17.102.24:18000
+server=MBWH;sls:172.17.102.25:18000
 server=MBLG;sls:172.30.0.79:18000
 server=MBGB;sls:172.17.102.23:18000
 server=MBFR;sls:172.17.102.22:18000
